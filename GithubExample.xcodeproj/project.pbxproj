@@ -12,6 +12,7 @@
 		6E00EB612087D77E00E3E43E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E00EB5F2087D77E00E3E43E /* Main.storyboard */; };
 		6E00EB632087D77E00E3E43E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E00EB622087D77E00E3E43E /* Assets.xcassets */; };
 		6E00EB662087D77E00E3E43E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E00EB642087D77E00E3E43E /* LaunchScreen.storyboard */; };
+		6E00EB6E2087DB9D00E3E43E /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E00EB6D2087DB9D00E3E43E /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6E00EB622087D77E00E3E43E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E00EB652087D77E00E3E43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E00EB672087D77E00E3E43E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E00EB6D2087DB9D00E3E43E /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				6E00EB5B2087D77E00E3E43E /* AppDelegate.swift */,
 				6E00EB5D2087D77E00E3E43E /* ViewController.swift */,
 				6E00EB5F2087D77E00E3E43E /* Main.storyboard */,
+				6E00EB6D2087DB9D00E3E43E /* NewViewController.swift */,
 				6E00EB622087D77E00E3E43E /* Assets.xcassets */,
 				6E00EB642087D77E00E3E43E /* LaunchScreen.storyboard */,
 				6E00EB672087D77E00E3E43E /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E00EB6E2087DB9D00E3E43E /* NewViewController.swift in Sources */,
 				6E00EB5E2087D77E00E3E43E /* ViewController.swift in Sources */,
 				6E00EB5C2087D77E00E3E43E /* AppDelegate.swift in Sources */,
 			);
